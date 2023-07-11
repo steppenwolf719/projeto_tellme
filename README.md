@@ -29,7 +29,3 @@ O projeto TELLME é um assistente de voz que permite ao usuário realizar pesqui
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, fazer sugestões ou enviar pull requests para melhorar este projeto.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
